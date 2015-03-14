@@ -1,0 +1,23 @@
+{
+  "name": "webpack-anybar",
+  "version": "0.1.0",
+  "description": "Report Webpack build status to AnyBar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "anybar",
+    "build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kulesa/webpack-anybar.git"
+  },
+  "author": "Alexey Kuleshov",
+  "license": "ISC",
+  "dependencies": {
+    "nanybar": "^1.0.2"
+  }
+}
